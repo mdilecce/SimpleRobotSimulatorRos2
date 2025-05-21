@@ -71,3 +71,16 @@ You can open more terminals with `docker exec -it robot_simple bash` to interact
 - Make sure your host user has permission to access Docker.
 - The `--network host` option is used for ROS 2 discovery. If you are on Mac/Windows, you may need to adjust networking.
 - The workspace is mounted with `-v $(pwd)/src:/workspace/src` for live code editing.
+
+---
+
+## License
+
+MIT License
+
+---
+
+## Author
+
+Michele Di Lecce  
+michele.dilecce@hotmail.com
