@@ -1,0 +1,10 @@
+# Goal
+float32 target_position_x
+float32 target_position_y
+---
+# Result
+bool success
+---
+# Feedback
+float32 distance_to_target
+float32 speed 

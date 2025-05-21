@@ -1,0 +1,5 @@
+#Energy Request
+float32 energy_required
+---
+#Energy Response
+bool success

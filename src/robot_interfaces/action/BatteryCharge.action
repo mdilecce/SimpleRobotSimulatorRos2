@@ -1,0 +1,9 @@
+# Goal
+float32 energy_required
+---
+# Result
+bool success
+---
+# Feedback
+uint8 battery_percentage
+float32 energy_remaining
